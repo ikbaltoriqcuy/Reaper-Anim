@@ -3,7 +3,7 @@
 A simple application to animate the **Reaper** character with multiple poses: **Idle, Walk, Jump, and Kick**.  
 
 ## **Preview**  
-![Reaper Animation Preview](https://github.com/user-attachments/assets/977d1d0f-3a82-4f79-812a-344a006595a1)  
+<iframe width="560"  src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://github.com/user-attachments/assets/977d1d0f-3a82-4f79-812a-344a006595a1)" frameborder="0" allowfullscreen></iframe>
 
 Clone the repository:  
    ```sh
